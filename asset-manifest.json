@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/amr-abd-alhameed/seventhTemp/static/css/main.b42f75b4.css",
+    "main.js": "/amr-abd-alhameed/seventhTemp/static/js/main.ea82a03f.js",
+    "static/media/one1.jpg": "/amr-abd-alhameed/seventhTemp/static/media/one1.7e0f7fae20be10942e34.jpg",
+    "static/media/ali1.jpg": "/amr-abd-alhameed/seventhTemp/static/media/ali1.239042e23ed3c8a3e966.jpg",
+    "static/media/i.jpg": "/amr-abd-alhameed/seventhTemp/static/media/i.77d249275352d0aa96a6.jpg",
+    "static/media/a3.jpg": "/amr-abd-alhameed/seventhTemp/static/media/a3.db4e4200fae7f8790681.jpg",
+    "static/media/i89.avif": "/amr-abd-alhameed/seventhTemp/static/media/i89.9c01ade23f0ac915c586.avif",
+    "static/media/i6.avif": "/amr-abd-alhameed/seventhTemp/static/media/i6.e9d39fc3559f03508c9e.avif",
+    "static/media/i5.avif": "/amr-abd-alhameed/seventhTemp/static/media/i5.dc57720d6e61aa0ddb91.avif",
+    "index.html": "/amr-abd-alhameed/seventhTemp/index.html",
+    "main.b42f75b4.css.map": "/amr-abd-alhameed/seventhTemp/static/css/main.b42f75b4.css.map",
+    "main.ea82a03f.js.map": "/amr-abd-alhameed/seventhTemp/static/js/main.ea82a03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b42f75b4.css",
+    "static/js/main.ea82a03f.js"
+  ]
+}
