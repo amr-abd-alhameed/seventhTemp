@@ -1,4 +1,5 @@
-import React from "react";import { MdDesignServices } from "react-icons/md";
+import React from "react";
+import { MdDesignServices } from "react-icons/md";
 import { FiCodesandbox } from "react-icons/fi";
 import { CgWebsite } from "react-icons/cg";
 import styled from "styled-components";
@@ -6,7 +7,8 @@ import Card from "./Card";
 import { Slide } from "react-awesome-reveal";
 import { FaUniversity, FaSchool } from "react-icons/fa";
 import { MdOutlineSchool } from "react-icons/md";
-
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 const Services = () => {
   return (
     <Container id="service">

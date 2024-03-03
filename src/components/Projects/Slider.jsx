@@ -1,9 +1,12 @@
-import React, { useRef } from "react";import Slider from "react-slick";
+import React, { useRef } from "react";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
+import Slider from "react-slick";
 import Project from "./Project";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 import styled from "styled-components";
-import one from "../../assets/one.jpg";
-import two from "../../assets/two.jpg";
+
 import f6 from "../../assets/three.jpg";
 import f1 from "../../assets/one1.jpg";
 import f2 from "../../assets/i.jpg";
