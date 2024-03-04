@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amr-abd-alhameed/seventhTemp/static/css/main.4c485260.css",
-    "main.js": "/amr-abd-alhameed/seventhTemp/static/js/main.a4f57340.js",
+    "main.js": "/amr-abd-alhameed/seventhTemp/static/js/main.6c763f79.js",
     "static/media/one1.jpg": "/amr-abd-alhameed/seventhTemp/static/media/one1.7e0f7fae20be10942e34.jpg",
     "static/media/ali1.jpg": "/amr-abd-alhameed/seventhTemp/static/media/ali1.239042e23ed3c8a3e966.jpg",
     "static/media/i.jpg": "/amr-abd-alhameed/seventhTemp/static/media/i.77d249275352d0aa96a6.jpg",
@@ -15,10 +15,10 @@
     "static/media/slick.woff": "/amr-abd-alhameed/seventhTemp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amr-abd-alhameed/seventhTemp/index.html",
     "main.4c485260.css.map": "/amr-abd-alhameed/seventhTemp/static/css/main.4c485260.css.map",
-    "main.a4f57340.js.map": "/amr-abd-alhameed/seventhTemp/static/js/main.a4f57340.js.map"
+    "main.6c763f79.js.map": "/amr-abd-alhameed/seventhTemp/static/js/main.6c763f79.js.map"
   },
   "entrypoints": [
     "static/css/main.4c485260.css",
-    "static/js/main.a4f57340.js"
+    "static/js/main.6c763f79.js"
   ]
 }
