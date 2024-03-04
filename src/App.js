@@ -1,10 +1,11 @@
-import styled from "styled-components";
-import Header from "./components/Banner/Header";
+import styled from "styled-components";import Header from "./components/Banner/Header";
 import ProfComponent from "./components/Banner/ProfComponent";
 import Clients from "./components/Clients/Clients";
 import Footer from "./components/Footer/Footer";
 import Projects from "./components/Projects/Projects";
 import Services from "./components/Service/Services";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 function App() {
   return (
     <Container>

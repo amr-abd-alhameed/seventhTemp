@@ -1,15 +1,11 @@
-import React from "react";import styled from "styled-components";
-import { AiOutlineInstagram } from "react-icons/ai";
-import { GiEarthAmerica } from "react-icons/gi";
-import {
-  FaFacebook,
-  FaLinkedinIn,
-  FaTelegram,
-  FaWhatsapp,
-} from "react-icons/fa";
-import { Slide } from "react-awesome-reveal";
-import photo from "../../assets/ali1.jpg";
+import React from "react";
+import styled from "styled-components";
 
+import { FaFacebook, FaTelegram, FaWhatsapp } from "react-icons/fa";
+import Slide from "react-awesome-reveal";
+import photo from "../../assets/ali1.jpg";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 const ProfComponent = () => {
   return (
     <Container id="home">

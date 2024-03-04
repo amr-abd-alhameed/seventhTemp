@@ -1,5 +1,5 @@
-import React, { useState } from "react";import styled from "styled-components";
-import { GiCandleFlame } from "react-icons/gi";
+import React, { useState } from "react";
+import styled from "styled-components";
 import { FaSquareRootVariable } from "react-icons/fa6";
 
 const Header = () => {

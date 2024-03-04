@@ -1,9 +1,8 @@
-import React, { useRef } from "react";
-import Slider from "react-slick/lib/slider";
+import React, { useRef } from "react";import Slider from "react-slick/lib/slider";
 import styled from "styled-components";
 import ClientSlider from "./ClientSlider";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
-import { Slide } from "react-awesome-reveal";
+import Slide from "react-awesome-reveal";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import photo1 from "../../assets/a1.jpg";

@@ -1,5 +1,4 @@
-import React from "react";
-import styled from "styled-components";
+import React from "react";import styled from "styled-components";
 import SliderComp from "./Slider";
 import { Zoom } from "react-awesome-reveal";
 
@@ -22,7 +21,7 @@ const Projects = () => {
           الرياضيات والتحضير لمستقبل ناجح ومشرق
         </p>
       </Zoom>
-      <Slide direction="right">
+      <Slide>
         <SliderComp />
       </Slide>
     </Container>
